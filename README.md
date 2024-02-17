@@ -19,5 +19,5 @@ python>=3.8
 3. In this  you can upload your own image for texting code.
 
 ## Notes
-. If the selected file is not an image or if any errors occur during the process, an error message will be printed in the terminal.
-. You continue using this program again and again by using q.If you wanted to end this program press c.
+* If the selected file is not an image or if any errors occur during the process, an error message will be printed in the terminal.
+* You continue using this program again and again by using q. If you wanted to end this program press c.
